@@ -1,7 +1,7 @@
 # ifcloader-sample
 
 This is a slight modified code based on [hello-world](https://github.com/IFCjs/hello-world) to work with the latest IFCLoader in three.js.
-The explanation of the code is in the Japanese [Qiita]() page.
+The explanation of the code is in the Japanese [Qiita](https://qiita.com/mktshhr/items/8a311bec98e1b4bf2556) page.
 This code is deployed to GitHub Pages and can be accessed from [here](https://shohara.github.io/ifcloader-sample/).
 ## Licenses
 The code is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information. The following are the licenses used in this code. Please check the actual licenses of them by yourself.
